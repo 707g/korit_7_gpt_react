@@ -7,6 +7,8 @@ import App5 from './study/App5';
 import App6 from './study/App6';
 import App7 from './study/App7';
 import App8 from './study/App8';
+import App9 from './study/App9';
+import App10 from './study/App10';
 // import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -18,4 +20,6 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 // root.render(<App5 />)
 // root.render(<App6 />)
 // root.render(<App7 />)
-root.render(<App8 />)
+// root.render(<App8 />)
+// root.render(<App9 />)
+root.render(<App10 />)
